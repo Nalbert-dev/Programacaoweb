@@ -1,0 +1,63 @@
+@import url(@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&family=Roboto:ital,wght@1,300&display=swap');
+
+*{
+ 
+  font-family:'Comfortaa', sans-serif;
+}
+body {
+  background-image: url(https://i.imgur.com/IaX1Sed.jpg);
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed
+}
+.
+
+
+
+.titulo1{
+  color: cyan;
+  background-color: black;
+  max-width: 490px;
+  margin: 0 auto;
+ text-align: center;
+  padding: 20px;
+  border-radius: 4px;
+  box-shadow: 15px 10px purple;
+}
+
+dt{
+  color: white;
+}
+
+.titulo2{
+  color: cyan;
+}
+
+.titulo3{
+  color: white;
+}
+
+.titulo1{
+  color: purple;
+  background-color: black;
+  max-width: 490px;
+  margin: 0 auto;
+ text-align: center;
+  padding: 20px;
+  border-radius: 4px;
+  box-shadow: 15px 10px purple;
+}
+  
+button{
+  background-color: violet;
+}
+
+h2{
+  color: cyan;
+}
+
+img{
+  border: 8px solid pink;
+}
+
